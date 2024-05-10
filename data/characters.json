@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "species": "Human",
+    "gender": "Male",
+    "poster_url" : "../images/characters/Luke-Skywalker.jpg",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ]
+  },
+  {
+    "name": "Princess Leia Organa",
+    "species": "Human",
+    "gender": "Female",
+    "poster_url" : "../images/characters/Leia-Organa.jpg",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ]
+  },
+  {
+    "name": "Han Solo",
+    "species": "Human",
+    "gender": "Male",
+    "poster_url" : "../images/characters/Han-Solo.jpg",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ]
+  },
+  {
+    "name": "Darth Vader",
+    "species": "Human",
+    "gender": "Male",
+    "poster_url" : "../images/characters/Darth-Vader.jpg",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ]
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "species": "Human",
+    "gender": "Male",
+    "poster_url" : "../images/characters/Obi-Wan.jpg",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ]
+  },
+  {
+    "name": "Yoda",
+    "species": "Unknown",
+    "gender": "Male",
+    "poster_url" : "../images/characters/Yoda.jpg",
+    "movies": [
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ]
+  }
+]
