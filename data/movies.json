@@ -3,42 +3,42 @@
     "episode": 1,
     "title": "The Phantom Menace",
     "director": "George Lucas",
-    "poster_url" : "../images/movies/Episode-1.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicfiles.alphacoders.com%2F349%2Fthumb-1920-349095.jpg&f=1&nofb=1&ipt=fa57a4caadf8093478b2621e672048a50a478cfa8cfdcdbc56362e65e85716a8&ipo=images",
     "release_date": "1999-05-19"
   },
   {
     "episode": 2,
     "title": "Attack of the Clones",
     "director": "George Lucas",
-    "poster_url" : "../images/movies/Episode-2.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.themoviedb.org%2Ft%2Fp%2Foriginal%2FovkO07v1IhcZGLr0qgRU70PvG2I.jpg&f=1&nofb=1&ipt=4fbd53a2afcf2f98aaf01a9680f2fc67fb483fbbcc70d3fe5901899da0d9c853&ipo=images",
     "release_date": "2002-05-16"
   },
   {
     "episode": 3,
     "title": "Revenge of the Sith",
     "director": "George Lucas",
-    "poster_url" : "../images/movies/Episode-3.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F43%2F23%2Ffe%2F4323fe06fe06faf189c6c9d0ec10b463.jpg&f=1&nofb=1&ipt=5e247f5d6109b4b421f7658e0c7f706023c1f6bea3afb7bdb508b856ee9c8b4a&ipo=images",
     "release_date": "2005-05-19"
   },
   {
     "episode": 4,
     "title": "A New Hope",
     "director": "George Lucas",
-    "poster_url" : "../images/movies/Episode-4.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg00.deviantart.net%2F559a%2Fi%2F2017%2F168%2F6%2F2%2Fstar_wars__episode_iv___a_new_hope___poster_by_visutox-dbd1vjs.jpg&f=1&nofb=1&ipt=576ba8945f8745b48c68ed2f768e8fe6e7670ae43d39b26a1e30246d906a0de1&ipo=images",
     "release_date": "1977-05-25"
   },
   {
     "episode": 5,
     "title": "The Empire Strikes Back",
     "director": "Irvin Kershner",
-    "poster_url" : "../images/movies/Episode-5.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicfiles.alphacoders.com%2F125%2F125318.jpg&f=1&nofb=1&ipt=17df8541214806bf5f93b45f12f3514115da7cac283be94103f499750bebbc2e&ipo=images",
     "release_date": "1980-05-21"
   },
   {
     "episode": 6,
     "title": "Return of the Jedi",
     "director": "Richard Marquand",
-    "poster_url" : "../images/movies/Episode-6.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicfiles.alphacoders.com%2F125%2F125441.jpg&f=1&nofb=1&ipt=0ab16b1736d5a24392bb1c0c2aad77f06e885747073710355904df369a707bb9&ipo=images",
     "release_date": "1983-05-25"
   }
 ]

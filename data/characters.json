@@ -3,7 +3,7 @@
     "name": "Luke Skywalker",
     "species": "Human",
     "gender": "Male",
-    "poster_url" : "../images/characters/Luke-Skywalker.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F64.media.tumblr.com%2Fdaba14a5d510ab514faee7d8395e38ac%2F4121a7af04c0a5e8-68%2Fs1280x1920%2Fa98c4d9bf4010381f468d41c069abceda51efdfa.jpg&f=1&nofb=1&ipt=180a75810190592faec4356c4d3c31504407ddc6195e04b409e2ba23eaffd09e&ipo=images",
     "movies": [
       "A New Hope",
       "The Empire Strikes Back",
@@ -14,7 +14,7 @@
     "name": "Princess Leia Organa",
     "species": "Human",
     "gender": "Female",
-    "poster_url" : "../images/characters/Leia-Organa.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg1.wikia.nocookie.net%2F__cb20130605181927%2Fdisney%2Fimages%2F4%2F4c%2FArmedAndSexyLeia-OfficialPix.jpg&f=1&nofb=1&ipt=a17d912139e4722fe93ccb60d07ba40ba0323490e3912ec742574efdb1e45740&ipo=images",
     "movies": [
       "A New Hope",
       "The Empire Strikes Back",
@@ -25,7 +25,7 @@
     "name": "Han Solo",
     "species": "Human",
     "gender": "Male",
-    "poster_url" : "../images/characters/Han-Solo.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fbe%2FHan_Solo_depicted_in_promotional_image_for_Star_Wars_%25281977%2529.jpg&f=1&nofb=1&ipt=acb70259f208d309be8063953b4f4be086971f78e557ee817d674527f735bd79&ipo=images",
     "movies": [
       "A New Hope",
       "The Empire Strikes Back",
@@ -36,7 +36,7 @@
     "name": "Darth Vader",
     "species": "Human",
     "gender": "Male",
-    "poster_url" : "../images/characters/Darth-Vader.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pristineauction.com%2F146%2F1464797%2Fmain_1585921331-Vintage-1977-Star-Wars-Darth-Vader-20x28-Poster-PristineAuction.com.jpg&f=1&nofb=1&ipt=78354fb0117dfc21d223a4b0a2d0971635dab5fb98fb4c088c103fc25c823fb5&ipo=images",
     "movies": [
       "A New Hope",
       "The Empire Strikes Back",
@@ -47,7 +47,7 @@
     "name": "Obi-Wan Kenobi",
     "species": "Human",
     "gender": "Male",
-    "poster_url" : "../images/characters/Obi-Wan.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspacequotations.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fold-obi-wan-kenobi.jpg&f=1&nofb=1&ipt=09533e3c4053f7dd45acabe791519e58dd3a7caaa4538ee395b3ec598f4a7662&ipo=images",
     "movies": [
       "A New Hope",
       "The Empire Strikes Back",
@@ -58,7 +58,7 @@
     "name": "Yoda",
     "species": "Unknown",
     "gender": "Male",
-    "poster_url" : "../images/characters/Yoda.jpg",
+    "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6674197.jpg&f=1&nofb=1&ipt=02a59e83c1dc02792c294237873e99646bf129dd6e64d050669d62882315a3c4&ipo=images",
     "movies": [
       "The Empire Strikes Back",
       "Return of the Jedi"
