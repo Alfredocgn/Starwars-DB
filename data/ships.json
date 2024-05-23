@@ -1,6 +1,6 @@
 [
   {
-    "id":"1",
+    "id":1,
     "name": "Millennium Falcon",
     "type": "Modified YT-1300 light freighter",
     "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallpaperflare.com%2Fstatic%2F517%2F933%2F283%2Fstar-wars-millennium-falcon-millennium-falcon-wallpaper.jpg&f=1&nofb=1&ipt=813091af06c7329a2360ae77a0d54e3658cfc7498685accba0d0ada7ca4b80ec&ipo=images",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id":"2",
+    "id":2,
     "name": "X-wing",
     "type": "Starfighter",
     "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-5jsEmASyxdM%2FU0TFxEBKsFI%2FAAAAAAAAD84%2FDMeaeXYzOyY%2Fs1600%2FX-Wing.jpg&f=1&nofb=1&ipt=9667f8e47e9924acc5c8ce96a127cffcc926efe28b8deb779356880065b6ded7&ipo=images",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "id":"3",
+    "id":3,
     "name": "TIE Fighter",
     "type": "Starfighter",
     "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finteng-storage.s3.amazonaws.com%2Fimages%2Fimport%2F2016%2F12%2Ftie-fighter.jpg&f=1&nofb=1&ipt=8e1fdaedbe96623660dbfcd432ad4ad2e714116fbb65e3dc2595f367dfa511af&ipo=images",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id":"4",
+    "id":4,
     "name": "Slave I",
     "type": "Firespray-31-class patrol and attack",
     "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.galaxykits.com%2Fwp-content%2Fuploads%2F2019%2F05%2F60258265_343166423052927_3969795489523564544_o.jpg&f=1&nofb=1&ipt=c89810b6e2e4afb64acdecce56a42437e4ac407b096dfe74bc8598588c6d5f0a&ipo=images",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "id":"5",
+    "id":5,
     "name": "Star Destroyer",
     "type": "Star Destroyer",
     "poster_url" : "m/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2FIVUwJVf.jpg&f=1&nofb=1&ipt=a51bc2e9396305e9750bef758e7e87c8d2577e6ea1dd125910958d78022c01ee&ipo=images",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id":"6",
+    "id":6,
     "name": "Death Star",
     "type": "Superweapon space station",
     "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.stickyminds.com%2Fsites%2Fdefault%2Ffiles%2Farticle%2F2014%2Fdeath-star.jpg&f=1&nofb=1&ipt=e5c124e1a45f0d0ce1179fdc6d5446995faf4e7dbed0bfbec23377843cde1f20&ipo=images",
