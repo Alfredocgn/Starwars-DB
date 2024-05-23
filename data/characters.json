@@ -1,5 +1,6 @@
 [
   {
+    "id":"1",
     "name": "Luke Skywalker",
     "species": "Human",
     "gender": "Male",
@@ -11,6 +12,7 @@
     ]
   },
   {
+    "id":"2",
     "name": "Princess Leia Organa",
     "species": "Human",
     "gender": "Female",
@@ -22,6 +24,7 @@
     ]
   },
   {
+    "id":"3",
     "name": "Han Solo",
     "species": "Human",
     "gender": "Male",
@@ -33,6 +36,7 @@
     ]
   },
   {
+    "id":"4",
     "name": "Darth Vader",
     "species": "Human",
     "gender": "Male",
@@ -44,6 +48,7 @@
     ]
   },
   {
+    "id":"5",
     "name": "Obi-Wan Kenobi",
     "species": "Human",
     "gender": "Male",
@@ -51,17 +56,24 @@
     "movies": [
       "A New Hope",
       "The Empire Strikes Back",
-      "Return of the Jedi"
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
     ]
   },
   {
+    "id":"6",
     "name": "Yoda",
     "species": "Unknown",
     "gender": "Male",
     "poster_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6674197.jpg&f=1&nofb=1&ipt=02a59e83c1dc02792c294237873e99646bf129dd6e64d050669d62882315a3c4&ipo=images",
     "movies": [
       "The Empire Strikes Back",
-      "Return of the Jedi"
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
     ]
   }
 ]
